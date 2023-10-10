@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Juan</h1>
 
-- 📫 How to reach me **juan.ropero.dev@gmail.com**
+- 📫 Como contactarme: **juan.ropero.dev@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
