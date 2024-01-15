@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Juan</h1>
+<h1>Hola 👋, soy Juan</h1>
 
 - 📫 Como contactarme: **juan.ropero.dev@gmail.com**
 
